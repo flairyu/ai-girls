@@ -1,0 +1,70 @@
+{
+  "checked_on": "2026-10-01",
+  "sources": {
+    "zipzippipe-pixiv": {
+      "title": "ZipZipPipe《AI娘化》",
+      "page_url": "https://www.pixiv.net/artworks/148186519",
+      "author": "ZipZipPipe",
+      "author_id": "18604994",
+      "author_url": "https://www.pixiv.net/users/18604994",
+      "published_at": "2026-08-09T01:18:00+09:00",
+      "accessed_on": "2026-10-01",
+      "kind": "author_original_collection",
+      "note": "通过作者作品的 pages 接口取得 original 文件，原字节保存。此为公开合集收录日期，不能据此认定为角色首次设计日期。"
+    },
+    "zipzippipe-video": {
+      "title": "ZipZipPipe《大AI和小AI们》",
+      "page_url": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+      "author": "ZipZipPipe",
+      "author_id": "4168597",
+      "author_url": "https://space.bilibili.com/4168597",
+      "published_at": "2026-05-02T18:50:13+08:00",
+      "accessed_on": "2026-10-01",
+      "kind": "author_video",
+      "video_resolution": [
+        720,
+        1280
+      ],
+      "video_sha256": "90422b16e63a2c0ec410fa3a19930120baff8f1d6446b45c060d2eaa02ddb70f",
+      "note": "作者在简介中说明包含九款 AI 的大、小两种设计。本仓库仅收录需求中的八款。Q版为原视频清晰展示时刻的完整截帧，未裁切、未放大、未重绘；不是原始图像文件。"
+    },
+    "aigengtu-refs": {
+      "title": "梗鲸 / 大肥鱼娘三视图设定集",
+      "page_url": "https://aigengtu.com/refs",
+      "index_url": "https://aigengtu.com/public/refs.json",
+      "index_updated_on": "2026-09-17",
+      "accessed_on": "2026-10-01",
+      "kind": "community_reference_collection",
+      "author": null,
+      "note": "社区整理站提供下载。所选两图与女仆鲸鱼娘正常比例 / Q版设计对应；索引未标明具体绘制者，不归为 ZipZipPipe 原稿，作为补充参考独立存放。"
+    },
+    "doubao-official": {
+      "title": "豆包官网",
+      "page_url": "https://www.doubao.com/",
+      "author": "豆包 / 字节跳动",
+      "accessed_on": "2026-10-01",
+      "kind": "official_brand_asset",
+      "note": "官网公开的官方头像，不是全身立绘，不推断成年 / Q版设定。"
+    }
+  },
+  "sharing_statement": {
+    "page_url": "https://www.bilibili.com/video/BV1bARXBYEZz/",
+    "author": "ZipZipPipe",
+    "summary": "作者在简介中表示自己的图开放分享，并允许用于再创作；DeepSeek 另有明确的 CC BY-NC-SA 4.0 声明。"
+  },
+  "deepseek_author_notice": {
+    "page_url": "https://www.bilibili.com/opus/1247156596114456581",
+    "author": "ZipZipPipe",
+    "summary": "作者再次明确 DeepSeek 大肥鱼形象遵守 CC BY-NC-SA 4.0，不允许商业化。"
+  },
+  "pixiv_original_metadata": {
+    "id": "148186519",
+    "title": "AI娘化",
+    "description": "作为保存用，方便所有人取用，需要标注作者，不可商用。<br /><br />AI娘可爱捏。<br /><br />其中deepseek娘形象基于用户：上善 的鲸鱼娘形象，针对deepseek特定形象进行的二次创作，遵循原作者签署的CC BY-NC-SA 4.0协议。",
+    "userId": "18604994",
+    "userName": "ZipZipPipe",
+    "createDate": "2026-08-08T16:18:00+00:00",
+    "aiType": 2,
+    "pageCount": 17
+  }
+}
